@@ -1,4 +1,23 @@
-### Hi there 👋
+# 고민이 많은 개발자
+
+소속: 영남이공대학교
+
+학과: **소프트웨어콘텐츠계열**
+
+관심분야: *JAVA, UNITY*
+
+---
+**안녕하세요**
+
+### 깃허브 작성방법
+1. 원격저장소 만들기
+2. 지역 저장소 연결하기
+3. 커밋하기
+4. 푸시하기
+
+[영남이공대학교](http://www.ync.ac.kr)
+
+
 
 <!--
 **eun-kong002/eun-kong002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
