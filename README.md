@@ -17,7 +17,7 @@
 
 [영남이공대학교](http://www.ync.ac.kr)
 
-
+![프로필이미지](./B005051298.jpg)
 
 <!--
 **eun-kong002/eun-kong002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
